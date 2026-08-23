@@ -7,3 +7,9 @@ pkg install python -y
 
 pip install Pillow
 
+cd Pic-for-location-
+
+python gpsss.py
+
+
+
